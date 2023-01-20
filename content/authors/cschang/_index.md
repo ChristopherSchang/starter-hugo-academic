@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher
+role: Ph.D. Researcher
 
   
 # Organizations/Affiliations to show in About widget
@@ -80,7 +80,7 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: #'christopher.schang@eui.eu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -88,5 +88,8 @@ highlight_name: true
  
 ---
 
-I am an Economics PhD Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics, Household Finance and Demographics.
+I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics, Household Finance and Demographics. 
+
+My advisors are <a href=" https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>.
+
 {style="text-align: justify;"} 
