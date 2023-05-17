@@ -54,9 +54,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:christopher.schang@eui.eu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -80,7 +80,7 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: #'christopher.schang@eui.eu'
+email: 'christopher.schang@eui.eu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -88,8 +88,10 @@ highlight_name: true
  
 ---
 
-I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics, Household Finance and Demographics. 
+I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Household Finance and Demographics. My advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>.
 
-My advisors are <a href=" https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>.
+This year you can meet me at the EABCN Workshop "Housing and the Macroeconomy" on May 8-12 in Lisbon and at the <a href="https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2023" target="_blank" rel="noopener noreferrer">NBER Heterogeneous-Agent Macro Workshop</a> on June 12-14 in Boston.
+
+You can reach me at christopher.schang [at] eui.eu
 
 {style="text-align: justify;"} 
