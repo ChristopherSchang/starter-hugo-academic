@@ -1,12 +1,12 @@
 ---
-title: "Loan-to-Value Contraction: Aggregate, Distributional and Welfare Consequences"
+title: "Loan-To-Value Tightening: An Aggregate Demand Perspective"
 authors:
-- Caterina Mendicino
 - Pablo Herrero  
+- Caterina Mendicino
 - cschang 
 #author_notes:
 #- "Equal contribution" 
-date: 2023-01-01 # "2022-12-01T00:00:00Z"
+date: 2024-06-01 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

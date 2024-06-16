@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD Candidate Economics
       institution: European University Institute
-      year: 2024
+      year: 2025
     - course: M.Sc. in Economics
       institution: Ludwig-Maximilians-Universität München
       year: 2019
@@ -89,8 +89,6 @@ highlight_name: true
 ---
 
 I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Household Finance and Demographics. My advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>.
-
-This year you can meet me at the EABCN Workshop "Housing and the Macroeconomy" on May 8-12 in Lisbon and at the <a href="https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2023" target="_blank" rel="noopener noreferrer">NBER Heterogeneous-Agent Macro Workshop</a> on June 12-14 in Boston.
 
 You can reach me at christopher.schang [at] eui.eu
 

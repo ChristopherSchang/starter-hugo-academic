@@ -2,7 +2,7 @@
 title: "Demographic Change and House Prices" 
 authors:
 - cschang  
-date: 2023-01-01 # "2022-12-01T00:00:00Z"
+date: 2024-06-15 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
