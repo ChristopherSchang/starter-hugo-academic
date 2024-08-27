@@ -4,8 +4,9 @@ a Central Fiscal Capacity for Europe"
 authors:
 - cschang  
 - Francesca Vinci 
-date: 2024-04-15 # "2022-12-01T00:00:00Z"
-doi: "https://dx.doi.org/10.2139/ssrn.4766347"
+date: 2024-07-31 # "2022-12-01T00:00:00Z"
+# doi: "https://dx.doi.org/10.2139/ssrn.4766347"
+ 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "ECB Working Paper No. 2024/2962"
 publication_short: ""
 
 abstract: The European fiscal governance framework remains incomplete, leading to challenges
@@ -55,9 +56,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-#- name: "SSRN"
-#  url: 'https://dx.doi.org/10.2139/ssrn.4766347'
+links:
+- name: "SSRN"
+  url:   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4911327
 #url_pdf: 'https://dx.doi.org/10.2139/ssrn.4766347'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''

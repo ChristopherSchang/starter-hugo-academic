@@ -26,9 +26,9 @@ organizations:
 # Interests to show in About widget
 interests:  
   - Quantitative Macroeconomics
-  - Household Finance
   - Monetary Policy
   - Demographics
+  - Household Finance
 
 
 
@@ -42,6 +42,9 @@ education:
     - course: PhD Candidate Economics
       institution: European University Institute
       year: 2025
+    - course: MRes in Economics
+      institution: European University Institute
+      year: 2020
     - course: M.Sc. in Economics
       institution: Ludwig-Maximilians-Universität München
       year: 2019

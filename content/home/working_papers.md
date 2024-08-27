@@ -9,14 +9,14 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 25
 
-title: Research
-subtitle: 'Work in Progress'
+title:  ' '
+subtitle: 'Working Papers'
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: research
+  page_type: working_papers
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -31,6 +31,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
 ---
 

@@ -9,20 +9,21 @@
   url = "#about"
   weight = 10
 
-
-
 [[main]]
   name = "Research"
   url = "#research"
   weight = 20
 
 [[main]]
+  name = "WP"
+  url = "#working_papers"
+  weight = 25
+
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 30
-
-
-
+ 
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
