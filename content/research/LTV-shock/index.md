@@ -1,5 +1,5 @@
 ---
-title: "Loan-To-Value Tightening: An Aggregate Demand Perspective"
+title: "The Aggregate Demand Channel of Loan-to-Value Changes: Aggregate and Distributive Effects"
 authors:
 - Pablo Herrero  
 - Caterina Mendicino
