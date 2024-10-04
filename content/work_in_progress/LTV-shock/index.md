@@ -1,8 +1,12 @@
 ---
-title: "Demographic Change and House Prices" 
+title: "The Aggregate Demand Channel of Loan-to-Value Changes with Heterogeneous Agents"
 authors:
-- cschang  
-date: 2024-06-15 # "2022-12-01T00:00:00Z"
+- Pablo Herrero  
+- Caterina Mendicino
+- cschang 
+#author_notes:
+#- "Equal contribution" 
+date: 2024-06-01 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,18 +22,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Most advanced economies are witnessing an aging of their societies brought about by low fertility rates and
-  increasing longevity, with substantial effects on rates of return and asset prices. This project focuses on the
-  relationship between demographic change and house prices. Utilizing a quantitative lifecycle model calibrated
-  to German microdata, I document demographic effects on house prices and their interaction with rates of return
-  along a transition spanning past, present and future.  
+abstract: This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.
 
 # Summary. An optional shortened abstract.
-summary: Most advanced economies are witnessing an aging of their societies brought about by low fertility rates and
-  increasing longevity, with substantial effects on rates of return and asset prices. This project focuses on the
-  relationship between demographic change and house prices. Utilizing a quantitative lifecycle model calibrated
-  to German microdata, I document demographic effects on house prices and their interaction with rates of return
-  along a transition spanning past, present and future.  
+summary: This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.
 
 tags:
 - Source Themes
@@ -49,10 +45,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Source: [**Own Calculations**]'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Source: [**Own Calculations**]'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -79,4 +75,6 @@ slides: ""
 #
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 #
+
 ---
+This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.

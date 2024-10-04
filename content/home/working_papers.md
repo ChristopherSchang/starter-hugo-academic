@@ -9,10 +9,10 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 22
 
-title:  ' '
-subtitle: 'Working Papers'
+title:  'Working Papers'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...

@@ -76,11 +76,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/christopher-schang-a1100880
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'christopher.schang@eui.eu'
