@@ -25,8 +25,9 @@ organizations:
 
 # Interests to show in About widget
 interests:  
-  - Quantitative Macroeconomics
-  - Monetary Policy
+  - Heterogeneous Agent Macro
+  - Housing
+  - Monetary Economics
   - Demographics
   - Household Finance
 
