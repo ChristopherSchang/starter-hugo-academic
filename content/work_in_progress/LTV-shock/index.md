@@ -22,10 +22,12 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.
+abstract: We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
+  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
 
 # Summary. An optional shortened abstract.
-summary: This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.
+summary: We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
+  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
 
 tags:
 - Source Themes
@@ -77,4 +79,5 @@ slides: ""
 #
 
 ---
-This paper investigates the distributional and welfare effects of an implementation of a Loan-to-Value (LTV) requirement and explores its interaction with monetary policy.
+We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
+  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
