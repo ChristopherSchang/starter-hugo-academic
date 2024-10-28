@@ -1,12 +1,12 @@
 ---
-title: "The Aggregate Demand Channel of Loan-to-Value Changes with Heterogeneous Agents"
+title: "The Aggregate Demand Channel of Loan-to-Value Shocks"
 authors:
 - Pablo Herrero  
 - Caterina Mendicino
 - cschang 
 #author_notes:
 #- "Equal contribution" 
-date: 2024-06-01 # "2022-12-01T00:00:00Z"
+date: 2024-10-29 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,21 +22,29 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
-  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
+abstract: This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
+  using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
+  income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
+  economy through aggregate demand effects. General equilibrium channels amplify the impact of
+  stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
+  accommodation mitigates these effects, reducing the costs of stricter LTV regulations.
 
 # Summary. An optional shortened abstract.
-summary: We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
-  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
+summary: This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
+  using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
+  income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
+  economy through aggregate demand effects. General equilibrium channels amplify the impact of
+  stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
+  accommodation mitigates these effects, reducing the costs of stricter LTV regulations.
 
 tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#links:
+#- name: "pdf"
+#  url: "media//LTVshock.pdf/"
+url_pdf: media/LTVshock.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -79,5 +87,9 @@ slides: ""
 #
 
 ---
-We study the aggregate demand channel of LTV contractions and investigate the to what extend monetary policy can counteract aggregate and distributional consequences.
-  We build a general equilibrium heterogeneous agent model with housing and wage frictions that give rise to New Keynesian aggregate demand externalities and confirm a strong aggregate demand channel which has remained unexplored in equilibrium models. We find that accommodating monetary policy can help counteract both the aggregate and distributional consequences of the LTV contraction.
+This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
+using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
+income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
+economy through aggregate demand effects. General equilibrium channels amplify the impact of
+stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
+accommodation mitigates these effects, reducing the costs of stricter LTV regulations.

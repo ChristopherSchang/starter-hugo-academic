@@ -34,7 +34,7 @@ interests:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Quantitative Macroeconomics, Household Finance, Monetary Policy, Demographics.
+bio: My research interests include Quantitative Macroeconomics, Housing, Monetary Policy, Demographics and Household Finance.
  
 
 # Education to show in About widget
@@ -42,7 +42,7 @@ education:
   courses:
     - course: PhD Candidate Economics
       institution: European University Institute
-      year: 2025
+      year: 2025 (expected)
     - course: MRes in Economics
       institution: European University Institute
       year: 2020
@@ -92,7 +92,7 @@ highlight_name: true
  
 ---
 
-I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Household Finance and Demographics. My advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>.
+I am an Economics Ph.D. Researcher at the European University Institute. My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Housing, Monetary Economics. My advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. 
 
 You can reach me at christopher.schang [at] eui.eu
 
