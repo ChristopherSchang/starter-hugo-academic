@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -24,26 +24,25 @@ abstract: >
   and rates of return. This research investigates the relationship between demographic change and
   house prices. Using a quantitative life-cycle model calibrated to German microdata, I document
   the following: In line with past trends (1) demographic factors have contributed significantly
-  to the long-term rise in housing prices of which much can be attributed to falling real rates,
-  making housing more attractive as an investment and cheaper to finance. (2) Based on projected
-  demographic trends, the model suggests that over the remainder of the 21st century declining
-  populations and rising old-age dependency ratios place downward pressure on real house prices
-  while (3) the composition of wealth shifts from capital to housing wealth mitigating the drop in
-  real rates.
+  to the long-term rise in housing prices of which much can be attributed to indirect general
+  equilibrium effects of falling real rates. (2) Based on projected demographic trends, the model
+  suggests that over the remainder of the 21st century declining populations and rising old-age
+  dependency ratios place downward pressure on real house prices while (3) the composition of
+  wealth shifts from capital to housing wealth mitigating the drop in real rates.
 
 # Summary. An optional shortened abstract.
-summary:  > 
+summary: > 
+ *(Job Market Paper)*<br><br>
   Aging populations, driven by low fertility rates and increasing longevity, are a defining trend in
   most advanced economies. This demographic shift has far-reaching implications for asset prices
   and rates of return. This research investigates the relationship between demographic change and
   house prices. Using a quantitative life-cycle model calibrated to German microdata, I document
   the following: In line with past trends (1) demographic factors have contributed significantly
-  to the long-term rise in housing prices of which much can be attributed to falling real rates,
-  making housing more attractive as an investment and cheaper to finance. (2) Based on projected
-  demographic trends, the model suggests that over the remainder of the 21st century declining
-  populations and rising old-age dependency ratios place downward pressure on real house prices
-  while (3) the composition of wealth shifts from capital to housing wealth mitigating the drop in
-  real rates.
+  to the long-term rise in housing prices of which much can be attributed to indirect general
+  equilibrium effects of falling real rates. (2) Based on projected demographic trends, the model
+  suggests that over the remainder of the 21st century declining populations and rising old-age
+  dependency ratios place downward pressure on real house prices while (3) the composition of
+  wealth shifts from capital to housing wealth mitigating the drop in real rates.
 
 tags:
 - Source Themes
@@ -95,14 +94,14 @@ slides: ""
 #
 ---
 
-Aging populations, driven by low fertility rates and increasing longevity, are a defining trend in
+  
+  Aging populations, driven by low fertility rates and increasing longevity, are a defining trend in
   most advanced economies. This demographic shift has far-reaching implications for asset prices
   and rates of return. This research investigates the relationship between demographic change and
   house prices. Using a quantitative life-cycle model calibrated to German microdata, I document
   the following: In line with past trends (1) demographic factors have contributed significantly
-  to the long-term rise in housing prices of which much can be attributed to falling real rates,
-  making housing more attractive as an investment and cheaper to finance. (2) Based on projected
-  demographic trends, the model suggests that over the remainder of the 21st century declining
-  populations and rising old-age dependency ratios place downward pressure on real house prices
-  while (3) the composition of wealth shifts from capital to housing wealth mitigating the drop in
-  real rates.
+  to the long-term rise in housing prices of which much can be attributed to indirect general
+  equilibrium effects of falling real rates. (2) Based on projected demographic trends, the model
+  suggests that over the remainder of the 21st century declining populations and rising old-age
+  dependency ratios place downward pressure on real house prices while (3) the composition of
+  wealth shifts from capital to housing wealth mitigating the drop in real rates.
