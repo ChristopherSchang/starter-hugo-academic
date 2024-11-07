@@ -30,11 +30,11 @@
 #  weight = 22
 
  
-[[main]]
-   name = "Research Statement"
-   url = "media/ResearchStatement.pdf"
-   parent = "Research"
-   weight = 23
+# [[main]]
+#    name = "Research Statement"
+#    url = "media/ResearchStatement.pdf"
+#    parent = "Research"
+#    weight = 23
 
 
 
