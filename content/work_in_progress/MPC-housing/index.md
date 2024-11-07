@@ -25,10 +25,12 @@ publication_short: ""
 abstract: In this project we explore consumption behavior of households separated by tenure choice. For this purpose we add a housing decision to a standard incomplete markets   lifecycle model and estimate the marginal propensity to consume (MPC) for renters, mortgagors and outright owners from model simulations. We document the bias of the common Blundell, Pistaferri and Preston (BPP) estimator using the true MPCs from the model and compare contemporaneous MPCs to dynamic consumption responses to income shocks.
 
 # Summary. An optional shortened abstract.
-summary: In this project we explore consumption behavior of households separated by tenure choice. For this purpose we add a housing decision to a standard incomplete markets lifecycle model and estimate the marginal propensity to consume (MPC) for renters, mortgagors and outright owners from model simulations. We document the bias of the common Blundell, Pistaferri and Preston (BPP) estimator using the true MPCs from the model and compare contemporaneous MPCs to dynamic consumption responses to income shocks.
+summary:  > 
+ *(Draft available soon)*<br><br>
+ In this project we explore consumption behavior of households separated by tenure choice. For this purpose we add a housing decision to a standard incomplete markets lifecycle model and estimate the marginal propensity to consume (MPC) for renters, mortgagors and outright owners from model simulations. We document the bias of the common Blundell, Pistaferri and Preston (BPP) estimator using the true MPCs from the model and compare contemporaneous MPCs to dynamic consumption responses to income shocks.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 # links:

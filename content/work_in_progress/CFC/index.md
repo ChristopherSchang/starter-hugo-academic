@@ -42,7 +42,9 @@ abstract: The European fiscal governance framework remains incomplete, leading t
   to address investment needs by providing European Public Goods (EPGs).
 
 # Summary. An optional shortened abstract.
-summary: The European fiscal governance framework remains incomplete, leading to challenges in
+summary: > 
+  *(ECB Working Paper No. 2024/2962)*<br><br>
+  tes  The European fiscal governance framework remains incomplete, leading to challenges in
   coordinating policy responses when facing economic shocks, and hampering
   the transmission of the single monetary policy. Against this backdrop, we
   provide a framework to assess a proposal for a Central Fiscal Capacity (CFC) in the euro area, 
@@ -52,8 +54,8 @@ summary: The European fiscal governance framework remains incomplete, leading to
   two regions while earmarking a fraction for public investment and imposing fiscal
   adjustment requirements for the high-debt region.  
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 links:
@@ -103,7 +105,7 @@ slides: ""
 ---
 
 
-The European fiscal governance framework remains incomplete, leading to chal-
+  The European fiscal governance framework remains incomplete, leading to chal-
   lenges in coordinating policy responses when facing economic shocks, and hampering
   the transmission of the single monetary policy. Moreover, high public debt burdens,
   coupled with pro-cyclical and chronically low public investment in the face of high

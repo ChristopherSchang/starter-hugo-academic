@@ -1,8 +1,8 @@
 ---
-title: "Demographic Change, House Prices and the Real Rate" 
+title: "Demographic Change, House Prices, and the Real Rate" 
 authors:
 - cschang  
-date: 2024-10-29 # "2022-12-01T00:00:00Z"
+date: 2024-11-05 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -44,8 +44,8 @@ summary: >
   dependency ratios place downward pressure on real house prices while (3) the composition of
   wealth shifts from capital to housing wealth mitigating the drop in real rates.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 # links:

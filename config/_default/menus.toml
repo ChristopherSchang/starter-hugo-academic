@@ -9,36 +9,32 @@
   url = "#about"
   weight = 10
 
-
-
-
-
+  
 
 [[main]]
   name = "Research"
   url = "#research"
   weight = 20
-
-
+ 
 
 [[main]]
-  name = "Work in Progress"
+  name = "Research Projects"
   url = "#work_in_progress"
   parent = "Research"
   weight = 21
   
-[[main]]
-  name = "Working Papers"
-  url = "#working_papers"
-  parent = "Research"
-  weight = 22
+#[[main]]
+#  name = "Working Papers"
+#  url = "#working_papers"
+#  parent = "Research"
+#  weight = 22
 
  
-#[[main]]
-#   name = "Research Statement"
-#   url = "media/ResearchStatement.pdf"
-#   parent = "Research"
-#   weight = 23
+[[main]]
+   name = "Research Statement"
+   url = "media/ResearchStatement.pdf"
+   parent = "Research"
+   weight = 23
 
 
 
