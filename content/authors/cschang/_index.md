@@ -92,13 +92,13 @@ highlight_name: true
  
 ---
 
-I am an Economics Ph.D. Researcher at the European University Institute. My thesis advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. 
+I am an Economics Ph.D. Researcher at the European University Institute. My thesis advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. Previously, I was a Research Analyst at DG-International at the European Central Bank.
+
  
 My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Housing and Monetary Economics. 
 
-Previously, I was a Research Analyst at DG-International at the European Central Bank.
 
-I am on the 2024/25 Job Market.
+**I am on the 2024/25 Job Market.** 
 
 You can reach me at christopher.schang [at] eui.eu
 
