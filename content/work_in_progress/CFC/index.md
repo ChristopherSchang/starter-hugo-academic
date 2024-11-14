@@ -44,7 +44,7 @@ abstract: The European fiscal governance framework remains incomplete, leading t
 # Summary. An optional shortened abstract.
 summary: > 
   *(ECB Working Paper No. 2024/2962)*<br><br>
-  tes  The European fiscal governance framework remains incomplete, leading to challenges in
+  The European fiscal governance framework remains incomplete, leading to challenges in
   coordinating policy responses when facing economic shocks, and hampering
   the transmission of the single monetary policy. Against this backdrop, we
   provide a framework to assess a proposal for a Central Fiscal Capacity (CFC) in the euro area, 
