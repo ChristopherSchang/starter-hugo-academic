@@ -44,7 +44,7 @@ featured: false
 #links:
 #- name: "pdf"
 #  url: "media//LTVshock.pdf/"
-url_pdf: media/LTVshock.pdf
+url_pdf: media/LTVshocks.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
