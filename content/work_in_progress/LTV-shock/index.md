@@ -6,7 +6,7 @@ authors:
 - cschang 
 #author_notes:
 #- "Equal contribution" 
-date: 2024-10-29 # "2022-12-01T00:00:00Z"
+date: 2024-11-24 # "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,28 +23,34 @@ publication: ""
 publication_short: ""
 
 abstract: This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
-  using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
-  income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
-  economy through aggregate demand effects. General equilibrium channels amplify the impact of
-  stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
-  accommodation mitigates these effects, reducing the costs of stricter LTV regulations.
+  shocks, and their interaction with monetary policy, using a Heterogeneous-Agent New Keynesian
+  (HANK) model. Households in the model face income risk, housing decisions, and collateral
+  constraints. Stricter LTV limits affect the economy through aggregate demand effects, triggering
+  a decline in aggregate consumption, house prices and inflation. Our results suggest that general
+  equilibrium channels amplify the impact of LTV tightening, disproportionately affecting highly
+  leveraged borrowers. Stronger monetary policy accommodation mitigates these effects, limiting
+  the aggregate costs of stricter LTV regulations and their unequal burden across households. These
+  findings highlight the importance of coordinated macroprudential and monetary policies.
 
 # Summary. An optional shortened abstract.
 summary: This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
-  using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
-  income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
-  economy through aggregate demand effects. General equilibrium channels amplify the impact of
-  stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
-  accommodation mitigates these effects, reducing the costs of stricter LTV regulations.
+  shocks, and their interaction with monetary policy, using a Heterogeneous-Agent New Keynesian
+  (HANK) model. Households in the model face income risk, housing decisions, and collateral
+  constraints. Stricter LTV limits affect the economy through aggregate demand effects, triggering
+  a decline in aggregate consumption, house prices and inflation. Our results suggest that general
+  equilibrium channels amplify the impact of LTV tightening, disproportionately affecting highly
+  leveraged borrowers. Stronger monetary policy accommodation mitigates these effects, limiting
+  the aggregate costs of stricter LTV regulations and their unequal burden across households. These
+  findings highlight the importance of coordinated macroprudential and monetary policies.
 
 tags:
 - Source Themes
 featured: false
 
-#links:
-#- name: "pdf"
-#  url: "media//LTVshock.pdf/"
-url_pdf: media/LTVshocks.pdf
+links:
+- name: "SSRN"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032259"
+#url_pdf: media/LTVshocks.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -88,8 +94,11 @@ slides: ""
 
 ---
 This paper explores the aggregate and distributional effects of loan-to-value (LTV) tightening
-using a Heterogeneous-Agent New Keynesian (HANK) model. Households in the model face
-income risk, housing decisions, and collateral constraints. The tightening of the LTV affects the
-economy through aggregate demand effects. General equilibrium channels amplify the impact of
-stricter LTV limits, disproportionately affecting borrowers with high LTV limits. Monetary policy
-accommodation mitigates these effects, reducing the costs of stricter LTV regulations.
+shocks, and their interaction with monetary policy, using a Heterogeneous-Agent New Keynesian
+(HANK) model. Households in the model face income risk, housing decisions, and collateral
+constraints. Stricter LTV limits affect the economy through aggregate demand effects, triggering
+a decline in aggregate consumption, house prices and inflation. Our results suggest that general
+equilibrium channels amplify the impact of LTV tightening, disproportionately affecting highly
+leveraged borrowers. Stronger monetary policy accommodation mitigates these effects, limiting
+the aggregate costs of stricter LTV regulations and their unequal burden across households. These
+findings highlight the importance of coordinated macroprudential and monetary policies.
